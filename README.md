@@ -8,7 +8,7 @@ LDAP Scala Demonstration Program
 The program demonstrates how to do a simple LDAP search
 of the University of Hawaii LDAP service. 
 
-Note: You must specify a password for your special DN.<br/>
+Note: You must specify your special DN and its password.<br/>
 The example run of the program uses the 'filedrop' special DN,
 but the value of the password has been removed from the 
 checked-in code.
@@ -23,7 +23,7 @@ using scala version 2.11.5 and sbt version 0.13.6.
     $ scala -version
     Scala code runner version 2.11.5 -- Copyright 2002-2013, LAMP/EPFL
 
-**Verify you have Scala installed**
+**Verify you have the Scala build tool installed**
 
     $ sbt --version
     sbt launcher version 0.13.6
