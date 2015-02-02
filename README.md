@@ -11,7 +11,8 @@ of the University of Hawaii LDAP service.
 Note: You must specify your special DN and its password.<br/>
 The example run of the program uses the 'filedrop' special DN,
 but the value of the password has been removed from the 
-checked-in code.
+checked-in code. The use of the special DN will also require 
+the ability to pass through the UH firewall.
 
 **Technology**
 
